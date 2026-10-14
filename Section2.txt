@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 section 2
 it is a check for checkout
+=======
+sectionn2 
+>>>>>>> 36c9663 (updated  section 2 and 3)
